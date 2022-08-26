@@ -35,9 +35,10 @@
 .item3 {
     background-color: rgba(122, 230, 194, 0.787);
     margin: 15px;
+    align-self: stretch;
     padding: 15px;
-    align-self: flex-start;
     order: -2;
+    
 }
 
 .item4 {
